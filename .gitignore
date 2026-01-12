@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+android/
+ios/
+.DS_Store
+.env
+*.log
+# ⚠️ SECURE YOUR KEY
+# If you hardcoded your API Key in a file, do NOT commit that file yet!
+# Ideally, use an Environment Variable, but for now, we will be careful.
