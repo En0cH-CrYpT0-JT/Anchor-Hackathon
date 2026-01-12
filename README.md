@@ -22,7 +22,7 @@ It returns a single, high-priority "Treasure Map" card with:
 
 ## 🚀 Features
 
-### 🧠 Powered by Google Gemini 2.5
+### 🧠 Powered by Google Gemini 3
 * **Contextual Breakdown:** Breaks "Get Groceries" into "Find your list app" -> "Check the fridge" -> "Grab keys."
 * **Tone Matching:** The AI speaks like a loyal First Mate—supportive, direct, and slightly nautical.
 * **Smart Prioritization:** Automatically detects urgency based on task context.
