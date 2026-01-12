@@ -4,7 +4,7 @@
 
 **Anchor** is an AI-powered executive function tool designed to help neurodivergent users (ADHD, Autism, or just overwhelmed humans) navigate the stormy seas of daily life.
 
-Instead of a daunting, endless to-do list, Anchor uses **Google Gemini 2.5** to break complex tasks into single, manageable steps, presented as a gamified deck of pirate cards.
+Instead of a daunting, endless to-do list, Anchor uses **Google Gemini 2.5** (Soon to be Gemini 3 for the Hackathon) to break complex tasks into single, manageable steps, presented as a gamified deck of pirate cards.
 
 ---
 
